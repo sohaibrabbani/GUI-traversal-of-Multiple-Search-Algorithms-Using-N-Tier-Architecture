@@ -1,0 +1,10 @@
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\bin\Debug\Breadth First Search.exe.config
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\bin\Debug\Breadth First Search.exe
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\bin\Debug\Breadth First Search.pdb
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\bin\Debug\SwiPlCs.xml
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\obj\Debug\Breadth First Search.csprojResolveAssemblyReference.cache
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\obj\Debug\Breadth_First_Search.Form1.resources
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\obj\Debug\Breadth_First_Search.Properties.Resources.resources
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\obj\Debug\Breadth First Search.csproj.GenerateResource.Cache
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\obj\Debug\Breadth First Search.exe
+c:\users\sohai\documents\visual studio 2017\Projects\Breadth First Search\Breadth First Search\obj\Debug\Breadth First Search.pdb
