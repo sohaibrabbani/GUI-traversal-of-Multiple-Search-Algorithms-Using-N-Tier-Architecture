@@ -2,12 +2,12 @@
 Graphical Representation of Multiple Search Algorithms (implemented in Prolog) using Windows Form having N-Tier Architecture
 
 ## Searching Algorithms
-The list of algorthms implemented in this app are:
-•	Breadth First Search.
-•	Best First Search.
-•	Iterative Deepening Search.
-•	Map Coloring (CSP).
-•	A* Search.
+The list of algorthms implemented in this app are:  <br />
+•	Breadth First Search. <br />
+•	Best First Search.<br />
+•	Iterative Deepening Search.<br />
+•	Map Coloring (CSP).<br />
+•	A* Search.<br />
 
 ## Purpose
 
@@ -19,19 +19,19 @@ Learnify is a standalone system. The scope of this software is that this compute
 
 ## Goals
 
-The main benefits are:
-•	App will help users to understand the search technique with user friendly interface.
-•	Users will be able to find a goal no matter how large the search space is.
-•	Program will not only tell the path to goal but it will also tell the search order that how many nodes were traversed before actually finding the goal.
-•	Users can input the graph according to their requirement and apply operation.
+The main benefits are: <br />
+•	App will help users to understand the search technique with user friendly interface. <br />
+•	Users will be able to find a goal no matter how large the search space is. <br />
+•	Program will not only tell the path to goal but it will also tell the search order that how many nodes were traversed before actually finding the goal. <br />
+•	Users can input the graph according to their requirement and apply operation. <br />
 
 ## Requirement Specifications
-The effectiveness and efficiency of the program are the requirements of the system architecture for this system. This section specifies the tools which are required for this application to run or if you desire to design a similar application like this, the system requirements are
-•	SWI Prolog
-•	Visual Studio 2017 C#
-•	Visual Studio 2017 Windows Form
-•	Microsoft Graph Layout
-•	Notepad++
+The effectiveness and efficiency of the program are the requirements of the system architecture for this system. This section specifies the tools which are required for this application to run or if you desire to design a similar application like this, the system requirements are: <br />
+•	SWI Prolog <br />
+•	Visual Studio 2017 C# <br />
+•	Visual Studio 2017 Windows Form <br />
+•	Microsoft Graph Layout <br />
+•	Notepad++ <br />
 
 ## Collaborators
 
